@@ -1,0 +1,1 @@
+# Chat Dialog UI Improvements
